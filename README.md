@@ -1,2 +1,5 @@
-# Prise_En-_Main
-Formation à Mombasa
+# Prise en main de Github
+Iiste des membres
+- Ousmane
+- Daffe
+- Aboubacry
